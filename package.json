@@ -1,0 +1,26 @@
+{
+  "name": "pixel-face",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "RealPeha <real.peha@gmail.com>",
+  "description": "A JavaScript library for generating simple pixel faces",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealPeha/pixel-face"
+  },
+  "bugs": {
+    "url": "https://github.com/RealPeha/pixel-face/issues"
+  },
+  "homepage": "https://github.com/RealPeha/pixel-face#readme",
+  "keywords": [
+    "faces",
+    "pixelart",
+    "pixel",
+    "generator",
+    "canvas"
+  ],
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}

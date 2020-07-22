@@ -1,0 +1,41 @@
+{
+  "weight": 100,
+  "parts": {
+    "regular": {
+      "offset": [0, 0],
+      "path": ["0:0", "0:-1", "0:-2", "0:1", "0:2", "-1:2"]
+    },
+    "regular_short": {
+      "offset": [0, 0],
+      "path": ["0:0", "0:-1", "0:1", "0:2", "-1:2"]
+    },
+    "line_short": {
+      "offset": [0, 0],
+      "path": ["0:0", "1:0"]
+    },
+    "point": {
+      "offset": [0, 0],
+      "path": ["0:0"]
+    },
+    "corner_left_bottom": {
+      "offset": [0, 0],
+      "path": ["0:0", "0:-1", "1:0"]
+    },
+    "realistic": {
+      "offset": [0, 0],
+      "path": ["0:0", "0:-1", "0:1", "0:2", "-1:2", "1:2"]
+    },
+    "two_point": {
+      "offset": [0, 0],
+      "path": ["-1:0", "1:0"]
+    },
+    "corner_right_bottom": {
+      "offset": [0, 0],
+      "path": ["0:0", "0:-1", "-1:0"]
+    },
+    "corner_right_bottom_long": {
+      "offset": [0, 0],
+      "path": ["0:0", "0:-1", "0:1", "-1:1"]
+    }
+  }
+}

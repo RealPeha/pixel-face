@@ -1,6 +1,6 @@
 {
   "name": "pixel-face",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "RealPeha <real.peha@gmail.com>",
   "description": "A JavaScript library for generating simple pixel faces",
